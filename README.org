@@ -1,0 +1,9 @@
+* cl-migemo
+
+cmigemo binding for common lisp.
+
+|---------+---------------------------------------------|
+| source  | git:https://github.com/snmsts/cl-migemo.git |
+| commit  | 3c7e756                                     |
+| systems | cl-migemo                                   |
+|---------+---------------------------------------------|
